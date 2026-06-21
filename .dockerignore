@@ -1,0 +1,13 @@
+.git
+**/.git
+**/target
+**/output
+**/dl
+**/.cache
+**/*.o
+**/*.ko
+**/*.cmd
+**/*.mod
+**/*.mod.c
+**/Module.symvers
+**/modules.order
